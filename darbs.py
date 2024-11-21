@@ -3,7 +3,7 @@
 import random
 
 for i in range(100):
-    random_skaitlis=random.randrange(101,501,5)
+    random_skaitlis=random.randint(100,501)
     print(random_skaitlis)
 
     # jābūt uzmanīgam
